@@ -1,4 +1,7 @@
-# ojs-docker
+[![Docker Image Latest Badge](https://ghcr-badge.egpl.dev/sfu-dhil/ojs/latest_tag?trim=major&label=latest)](https://github.com/sfu-dhil/ojs/pkgs/container/ojs)
+[![Docker Image Size badge](https://ghcr-badge.egpl.dev/sfu-dhil/ojs/size)](https://github.com/sfu-dhil/ojs/pkgs/container/ojs)
+
+# DHIL OJS Single Journal Docker Container
 
 This repo is meant for local testing/debugging/development of the DHIL's install of OJS and should roughly reflect the version and infrastructure used in production. It is not meant for direct usage in any production environment.
 

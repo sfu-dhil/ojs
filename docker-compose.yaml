@@ -20,7 +20,7 @@ services:
 
   app:
     container_name: ojs_app
-    # image: dhil/ojs
+    # image: ghcr.io/sfu-dhil/ojs
     build:
       context: .
     platform: linux/amd64
